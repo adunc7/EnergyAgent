@@ -1,0 +1,84 @@
+[
+    {
+        "state": "California",
+        "county": "Alameda",
+        "description": "In 2035 in Alameda, California, the total area available for solar development is 1496.14 sq_km. The total capacity of solar installations is 48010.37 MW, with a capacity factor of 4.73. The total LCOE for site-specific projects is 598.69 USD/MWh, while the total LCOT is 304.51 USD/MWh.The total LCOE all-in is 903.20 USD/MWh.",
+        "level": "county",
+        "total_area_developable_sq_km": 1496.137236328125,
+        "total_capacity_ac_mw": 48010.36705714806,
+        "total_capacity_factor": 4.7288029,
+        "total_lcoe_site_usd_per_mwh": 598.6925223217165,
+        "total_lcot_usd_per_mwh": 304.50926899999996,
+        "total_lcoe_all_in_usd_per_mwh": 903.201796
+    },
+     {
+        "state": "California",
+        "county": "San Diego",
+        "description": "In 2035 in San Diego, California, the total area available for solar development is 7909.52 sq_km. The total capacity of solar installations is 253812.84 MW, with a capacity factor of 26.63. The total LCOE for site-specific projects is 2644.39 USD/MWh, while the total LCOT is 2085.21 USD/MWh.The total LCOE all-in is 4729.60 USD/MWh.",
+        "level": "county",
+        "total_area_developable_sq_km": 7909.517346679687,
+        "total_capacity_ac_mw": 253812.83677969748,
+        "total_capacity_factor": 26.632934069999997,
+        "total_lcoe_site_usd_per_mwh": 2644.3901137131493,
+        "total_lcot_usd_per_mwh": 2085.2121162999997,
+        "total_lcoe_all_in_usd_per_mwh": 4729.602203
+    },
+
+    {
+        "state": "California",
+        "county": "Santa Clara",
+        "description": "In 2035 in Santa Clara, California, the total area available for solar development is 2715.75 sq_km. The total capacity of solar installations is 87147.07 MW, with a capacity factor of 7.84. The total LCOE for site-specific projects is 941.64 USD/MWh, while the total LCOT is 777.35 USD/MWh.The total LCOE all-in is 1718.98 USD/MWh.",
+        "level": "county",
+        "total_area_developable_sq_km": 2715.7462747558593,
+        "total_capacity_ac_mw": 87147.06952986478,
+        "total_capacity_factor": 7.844227350000001,
+        "total_lcoe_site_usd_per_mwh": 941.6365432193355,
+        "total_lcot_usd_per_mwh": 777.3471119999999,
+        "total_lcoe_all_in_usd_per_mwh": 1718.9836700000003
+    },
+     {
+        "state": "California",
+        "county": "Siskiyou",
+        "description": "In 2035, a location in Siskiyou, California at 41.84716, -123.44429 has an area available for solar development of 60.79 sq km, a capacity of 1950.61 MW, and a capacity factor of 0.26. The LCOE for site-specific projects is 40.42 USD/MWh. The LCOT is 33.09 USD/MWh and the LCOE all-in is 73.51 USD/MWh.",
+        "level": "point",
+        "latitude": 41.84716,
+        "longitude": -123.44429,
+        "area_developable_sq_km": 60.7863708984375,
+        "capacity_ac_mw": 1950.607057495384,
+        "capacity_factor_ac": 0.25629747,
+        "lcoe_site_usd_per_mwh": 40.42323773230372,
+        "lcot_usd_per_mwh": 33.090958,
+        "lcoe_all_in_usd_per_mwh": 73.51419
+    },
+      {
+        "state": "California",
+        "county": "Santa Barbara",
+        "description": "In 2035, a location in Santa Barbara, California at 34.54168, -120.246704 has an area available for solar development of 128.01 sq km, a capacity of 4107.74 MW, and a capacity factor of 0.31. The LCOE for site-specific projects is 33.33 USD/MWh. The LCOT is 69.28 USD/MWh and the LCOE all-in is 102.61 USD/MWh.",
+        "level": "point",
+        "latitude": 34.54168,
+        "longitude": -120.246704,
+        "area_developable_sq_km": 128.0085873046875,
+        "capacity_ac_mw": 4107.737476773033,
+        "capacity_factor_ac": 0.31089625,
+        "lcoe_site_usd_per_mwh": 33.32678136375477,
+        "lcot_usd_per_mwh": 69.28493,
+        "lcoe_all_in_usd_per_mwh": 102.61171
+    },
+
+     {
+        "state": "California",
+        "county": "San Diego",
+        "description": "In 2035, a location in San Diego, California at 32.99369, -117.05559 has an area available for solar development of 111.07 sq km, a capacity of 3564.10 MW, and a capacity factor of 0.31. The LCOE for site-specific projects is 33.58 USD/MWh. The LCOT is 14.41 USD/MWh and the LCOE all-in is 47.99 USD/MWh.",
+        "level": "point",
+        "latitude": 32.99369,
+        "longitude": -117.05559,
+        "area_developable_sq_km": 111.06743730468747,
+        "capacity_ac_mw": 3564.10408479434,
+        "capacity_factor_ac": 0.30536023,
+        "lcoe_site_usd_per_mwh": 33.581445681646215,
+        "lcot_usd_per_mwh": 14.40842,
+        "lcoe_all_in_usd_per_mwh": 47.989864
+    }
+    
+]
+

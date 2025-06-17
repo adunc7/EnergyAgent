@@ -1,0 +1,19 @@
+
+[
+    {
+        "state": "California",
+        "county": "Alameda",
+        "description": "In 2035 in Alameda, California, the total area available for solar development is 1496.14 sq_km. The total capacity of solar installations is 48010.37 MW, with a capacity factor of 4.73. The total LCOE for site-specific projects is 598.69 USD/MWh, while the total LCOT is 304.51 USD/MWh.",
+        "level": "county"
+    },
+  
+    {
+        "state": "California",
+        "county": "Siskiyou",
+        "description": "In 2035, a location in Siskiyou, California at 41.7537, -123.40224 has an area available for solar development of 100.09 sq km, a capacity of 3211.87 MW, and a capacity factor of 0.25. The LCOE for site-specific projects is 40.72 USD/MWh. The LCOT is 61.57 USD/MWh and the LCOE all-in is 102.28 USD/MWh.",
+        "level": "point",
+        "latitude": 41.7537,
+        "longitude": -123.40224
+    }  
+]
+  
