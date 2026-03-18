@@ -1,5 +1,8 @@
-# Energy Surge AI - Energy Data Explorer Agent - Demo 
-Energy Surge AI was developed using Google Agent Development Kit and MonogDB Atlas Vector Search. 
+## Energy Surge AI Demo 
+
+Energy Data Explorer Agent 
+
+Energy Surge AI was developed using **Google Agent Development Kit** and **MonogDB Atlas Vector Search**. 
 
 Folders:
 
