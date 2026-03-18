@@ -4,6 +4,9 @@ Energy Data Explorer Agent
 
 Energy Surge AI was developed using **Google Agent Development Kit** and **MonogDB Atlas Vector Search**. 
 
+<img src="EnergySurgeAI.png" alt="Alt text" width="700">
+
+
 Folders:
 
 data_processing - scripts for initially exploring the datasets and process them to allow them for Semantic Search. Also includes creation of the vector index and creation of embeddings. 
