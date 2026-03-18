@@ -1,4 +1,4 @@
-## Energy Surge AI Demo 
+##  🔋⚡ Energy Surge AI Demo 🔋⚡
 
 Energy Data Explorer Agent 
 
